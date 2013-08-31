@@ -5,17 +5,7 @@ A little php script that will paste false doxes to a variety of websites.
 
 
 
-Release notes for v0.4:
-
-*Made a few small revisions
-
-*Added birthdays, random age selector, couple of other things
-
-*Made the USERNAME section a bit easier to use
-
-*Added some documentation to help users
-
-*Added titles
+Release notes for v0.4: Made a few small revisions; added birthdays, random age selector, couple of other things; made the USERNAME section a bit easier to use; added some documentation to help users; added titles
 
 
 
