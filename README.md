@@ -4,17 +4,19 @@ doxbomber
 A little php script that will paste false doxes to a variety of websites.
 
 
+
 Release notes for v0.4:
 
--Made a few small revisions
+*Made a few small revisions
 
--Added birthdays, random age selector, couple of other things
+*Added birthdays, random age selector, couple of other things
 
--Made the USERNAME section a bit easier to use
+*Made the USERNAME section a bit easier to use
 
--Added some documentation to help users
+*Added some documentation to help users
 
--Added titles
+*Added titles
+
 
 
 Made by a couple of anons.
