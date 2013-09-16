@@ -72,8 +72,10 @@ function generateDox($username, $username2, $username3) {
 	$yearofbirth = $thisyear - $age;
 	$monthofbirth = rand(1,12);
 	$dayofbirth = rand(1,30);
-	if $monthofbirth = 2 then $dayofbirth = rand(1,28);
-	$dob = $dayofbirth . "/" . $monthofbirth . "/" $yearofbirth;
+	if ($monthofbirth == 2) {
+	  $dayofbirth = rand(1,28);
+	}
+	$dob = $dayofbirth . "/" . $monthofbirth . "/" . $yearofbirth;
 		
 	// Generates an SSN
 	$ssn = rand(0,9) . rand(0,9) . rand(0,9) . "-" . rand(0,9) . rand(0,9) . "-" . rand(0,9) . rand(0,9) . rand(0,9) . rand(0,9);
